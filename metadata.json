@@ -1,0 +1,7 @@
+{
+  "name": "EchoVocal TTS",
+  "description": "A high-quality, professional Text-to-Speech application powered by Gemini 2.5 Flash, offering natural-sounding voices and seamless audio generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
